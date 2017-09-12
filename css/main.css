@@ -1,0 +1,172 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+q, blockquote {
+  quotes: none;
+}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+a img {
+  border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+body {
+  background-color: white;
+  overflow: hidden;
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+canvas {
+  position: absolute;
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+#game_background {
+  display: none;
+  z-index: -1;
+  pointer-events: none;
+  cursor: none;
+}
+
+.adtech {
+  display: block;
+  z-index: 999999;
+  position:fixed;
+  width: 640px;
+  height: 480px;
+  margin-left: -320px;
+  margin-top: -240px;
+  top: 50%;
+  left: 50%;
+}
+
+.adFrame {
+  z-index: 999998;
+  width: 800px;
+  height: 600px;
+  margin-left: -393.5px;
+  margin-top: -300px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  background: url("../assets/images/misc/adBorder.png");
+  background-repeat: no-repeat;
+  background-size: 800px 600px;
+  background-position: center;
+}
+
+.adtechMobile {
+  display: block;
+  z-index: 999999;
+  position:fixed;
+  width: 320px;
+  height: 250px;
+  margin-left: -160px;
+  margin-top: -125px;
+  top: 50%;
+  left: 50%;
+}
+
+.adFrameMobile {
+  z-index: 999998;
+  width: 426px;
+  height: 453px;
+  margin-left: -213px;
+  margin-top: -226.5px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  background: url("../assets/images/misc/adBorderMob.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+}
+
+.adOverlay {
+  z-index: 999998;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+}
+
+.adBg {
+  z-index: 999998;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: fixed;
+  opacity: 0.7;
+}
+
+.cg-hide
+{
+  display: none;
+}

@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "particle_bomb.png",
+	"frame": {"x":35,"y":1,"w":21,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":17},
+	"sourceSize": {"w":21,"h":17},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_bomb1.png",
+	"frame": {"x":17,"y":1,"w":16,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":20},
+	"sourceSize": {"w":16,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_bomb2.png",
+	"frame": {"x":1,"y":1,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_bomb3.png",
+	"frame": {"x":58,"y":1,"w":16,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":14},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bomb.png",
+	"format": "RGBA8888",
+	"size": {"w":75,"h":24},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:6397ac2b91244c6c2cf65faa6654b8e8:12c82f51cb8d3540e102c5c105761a6d:f63ee348f1e457e41f792cb710b5b64f$"
+}
+}

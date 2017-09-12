@@ -1,0 +1,2 @@
+http://games.coolgames.com/jewelacademy/en/4.5/assets/animations/owlSpine.json
+http://games.coolgames.com/jewelacademy/en/4.5/assets/animations/dragon.json

@@ -1,0 +1,6 @@
+http://games.coolgames.com/jewelacademy/en/4.5/assets/audio/music.mp3 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/audio/music.json 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/audio/effects.mp3 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/audio/effects.json 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/audio/ambient.mp3 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/audio/ambient.json 

@@ -1,0 +1,48 @@
+{
+  "resources": [
+    "assets/audio/ambient.ogg",
+    "assets/audio/ambient.mp3"
+  ],
+  "spritemap": {
+    "SFX_Map_Campfire": {
+      "start": 0,
+      "end": 3.934285714285714,
+      "loop": false
+    },
+    "SFX_Map_Fountain": {
+      "start": 5,
+      "end": 12.256190476190476,
+      "loop": false
+    },
+    "SFX_Map_Harbor_Bell": {
+      "start": 14,
+      "end": 15.455283446712018,
+      "loop": false
+    },
+    "SFX_Map_Mining": {
+      "start": 17,
+      "end": 17.81519274376417,
+      "loop": false
+    },
+    "SFX_Map_Tavern": {
+      "start": 19,
+      "end": 25.577233560090704,
+      "loop": false
+    },
+    "SFX_Map_Thunder": {
+      "start": 27,
+      "end": 30.579909297052154,
+      "loop": false
+    },
+    "SFX_Map_Wind": {
+      "start": 32,
+      "end": 42.51795918367347,
+      "loop": false
+    },
+    "SFX_Map_Wolf": {
+      "start": 44,
+      "end": 45.59410430839002,
+      "loop": false
+    }
+  }
+}

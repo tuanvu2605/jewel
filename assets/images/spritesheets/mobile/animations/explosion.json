@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "standard_explosion_01.png",
+	"frame": {"x":461,"y":84,"w":41,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":38,"w":41,"h":40},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_02.png",
+	"frame": {"x":414,"y":84,"w":45,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":37,"w":45,"h":42},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_03.png",
+	"frame": {"x":562,"y":79,"w":49,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":35,"w":49,"h":45},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_04.png",
+	"frame": {"x":507,"y":79,"w":53,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":34,"w":53,"h":46},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_05.png",
+	"frame": {"x":755,"y":52,"w":58,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":32,"w":58,"h":49},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_06.png",
+	"frame": {"x":752,"y":1,"w":63,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":31,"w":63,"h":49},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_07.png",
+	"frame": {"x":613,"y":74,"w":67,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":29,"w":67,"h":52},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_08.png",
+	"frame": {"x":682,"y":67,"w":71,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":27,"w":71,"h":57},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_09.png",
+	"frame": {"x":671,"y":1,"w":79,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":23,"w":79,"h":64},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_10.png",
+	"frame": {"x":593,"y":1,"w":76,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":18,"w":76,"h":71},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_11.png",
+	"frame": {"x":507,"y":1,"w":84,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":15,"w":84,"h":76},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_12.png",
+	"frame": {"x":414,"y":1,"w":91,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":13,"w":91,"h":81},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_13.png",
+	"frame": {"x":314,"y":1,"w":98,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":98,"h":88},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_14.png",
+	"frame": {"x":212,"y":1,"w":100,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":100,"h":95},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_15.png",
+	"frame": {"x":110,"y":1,"w":100,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":100,"h":103},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "standard_explosion_16.png",
+	"frame": {"x":1,"y":1,"w":107,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":110},
+	"sourceSize": {"w":110,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "explosion.png",
+	"format": "RGBA8888",
+	"size": {"w":816,"h":127},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:5af60a682339b5745372a2a1d3dd2b88:ee6f055637487c429d22690ff61c079c:900e1fb3093a9a6ecb2b2b49071c44f7$"
+}
+}

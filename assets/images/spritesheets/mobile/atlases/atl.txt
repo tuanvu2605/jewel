@@ -1,0 +1,3 @@
+http://games.coolgames.com/jewelacademy/en/4.5/assets/images/spritesheets/mobile/atlases/owl_animation.json 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/images/spritesheets/mobile/atlases/states.json 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/images/spritesheets/mobile/atlases/tiles.json 

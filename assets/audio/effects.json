@@ -1,0 +1,253 @@
+{
+  "resources": [
+    "assets/audio/effects.ogg",
+    "assets/audio/effects.mp3"
+  ],
+  "spritemap": {
+    "SFX_Alarm_1": {
+      "start": 0,
+      "end": 0.7107936507936508,
+      "loop": false
+    },
+    "SFX_Bomb_Warning_1": {
+      "start": 2,
+      "end": 3.1119727891156463,
+      "loop": false
+    },
+    "SFX_Breakable_Flower_Patch_1": {
+      "start": 5,
+      "end": 5.3678004535147394,
+      "loop": false
+    },
+    "SFX_Button_Click_1": {
+      "start": 7,
+      "end": 7.074557823129251,
+      "loop": false
+    },
+    "SFX_Clock_Tick_1": {
+      "start": 9,
+      "end": 9.061632653061224,
+      "loop": false
+    },
+    "SFX_Clock_Tick_Fast": {
+      "start": 11,
+      "end": 11.582448979591836,
+      "loop": false
+    },
+    "SFX_Clock_Tock_1": {
+      "start": 13,
+      "end": 13.08312925170068,
+      "loop": false
+    },
+    "SFX_Color_Bomb_Zap_1": {
+      "start": 15,
+      "end": 15.72938775510204,
+      "loop": false
+    },
+    "SFX_Create_Color_Potion_1": {
+      "start": 17,
+      "end": 18.437324263038548,
+      "loop": false
+    },
+    "SFX_Create_Row_Remover_1": {
+      "start": 20,
+      "end": 21.077052154195012,
+      "loop": false
+    },
+    "SFX_End_Firework_1": {
+      "start": 23,
+      "end": 24.096780045351473,
+      "loop": false
+    },
+    "SFX_Explosion": {
+      "start": 26,
+      "end": 26.493378684807258,
+      "loop": false
+    },
+    "SFX_Gem_Collide_1": {
+      "start": 28,
+      "end": 28.114467120181406,
+      "loop": false
+    },
+    "SFX_Gem_Match_Combo_0": {
+      "start": 30,
+      "end": 30.44249433106576,
+      "loop": false
+    },
+    "SFX_Gem_Match_Combo_1": {
+      "start": 32,
+      "end": 32.70544217687075,
+      "loop": false
+    },
+    "SFX_Gem_Match_Combo_2": {
+      "start": 34,
+      "end": 34.60367346938776,
+      "loop": false
+    },
+    "SFX_Gem_Match_Combo_3": {
+      "start": 36,
+      "end": 36.70544217687075,
+      "loop": false
+    },
+    "SFX_Gem_Match_Combo_4": {
+      "start": 38,
+      "end": 38.70544217687075,
+      "loop": false
+    },
+    "SFX_Gem_Match_Combo_5": {
+      "start": 40,
+      "end": 40.70544217687075,
+      "loop": false
+    },
+    "SFX_Gem_Select_1": {
+      "start": 42,
+      "end": 42.05882086167801,
+      "loop": false
+    },
+    "SFX_Gem_Switch_1": {
+      "start": 44,
+      "end": 44.30086167800454,
+      "loop": false
+    },
+    "SFX_General_Fireworks_1": {
+      "start": 46,
+      "end": 47.34929705215419,
+      "loop": false
+    },
+    "SFX_Growing_Thorns_1": {
+      "start": 49,
+      "end": 50.278503401360545,
+      "loop": false
+    },
+    "SFX_Ivy_Break_1": {
+      "start": 52,
+      "end": 52.78417233560091,
+      "loop": false
+    },
+    "SFX_Level_Win_1": {
+      "start": 54,
+      "end": 55.66444444444444,
+      "loop": false
+    },
+    "SFX_Map_Level_Select": {
+      "start": 57,
+      "end": 59.00730158730159,
+      "loop": false
+    },
+    "SFX_Map_Locked_Level": {
+      "start": 61,
+      "end": 61.50512471655329,
+      "loop": false
+    },
+    "SFX_Map_Metal_Gate_Open": {
+      "start": 63,
+      "end": 64.33074829931972,
+      "loop": false
+    },
+    "SFX_Map_Padlock_Locked": {
+      "start": 66,
+      "end": 66.59736961451247,
+      "loop": false
+    },
+    "SFX_Map_Padlock_Unlock": {
+      "start": 68,
+      "end": 68.29333333333334,
+      "loop": false
+    },
+    "SFX_Map_Star_1": {
+      "start": 70,
+      "end": 70.39768707482993,
+      "loop": false
+    },
+    "SFX_Map_Star_2": {
+      "start": 72,
+      "end": 72.35736961451248,
+      "loop": false
+    },
+    "SFX_Map_Star_3": {
+      "start": 74,
+      "end": 74.2677097505669,
+      "loop": false
+    },
+    "SFX_Map_Wooden_Gate_Open": {
+      "start": 76,
+      "end": 80.04444444444445,
+      "loop": false
+    },
+    "SFX_Mushroom_Collect_2": {
+      "start": 82,
+      "end": 82.39768707482993,
+      "loop": false
+    },
+    "SFX_Potion_Create_1": {
+      "start": 84,
+      "end": 85.07705215419502,
+      "loop": false
+    },
+    "SFX_Potion_Explode_1": {
+      "start": 87,
+      "end": 87.99492063492063,
+      "loop": false
+    },
+    "SFX_Row_Remover_Explode_1": {
+      "start": 89,
+      "end": 89.78975056689342,
+      "loop": false
+    },
+    "SFX_Shuffle_1_1": {
+      "start": 91,
+      "end": 91.24897959183673,
+      "loop": false
+    },
+    "SFX_Shuffle_1_2": {
+      "start": 93,
+      "end": 93.52267573696145,
+      "loop": false
+    },
+    "SFX_Star_End_Game": {
+      "start": 95,
+      "end": 95.69913832199546,
+      "loop": false
+    },
+    "SFX_Wood_1": {
+      "start": 97,
+      "end": 97.51637188208616,
+      "loop": false
+    },
+    "SFX_owl": {
+      "start": 99,
+      "end": 100.47784580498866,
+      "loop": false
+    },
+    "SFX_rocks": {
+      "start": 102,
+      "end": 103.62630385487529,
+      "loop": false
+    },
+    "SFX_shaping_tile_1": {
+      "start": 105,
+      "end": 105.83333333333333,
+      "loop": false
+    },
+    "SFX_shaping_tile_2": {
+      "start": 107,
+      "end": 107.83333333333333,
+      "loop": false
+    },
+    "SFX_shaping_tile_3": {
+      "start": 109,
+      "end": 109.83333333333333,
+      "loop": false
+    },
+    "SFX_shaping_tile_complete": {
+      "start": 111,
+      "end": 113.37501133786849,
+      "loop": false
+    },
+    "SFX_totempole": {
+      "start": 115,
+      "end": 115.98684807256235,
+      "loop": false
+    }
+  }
+}

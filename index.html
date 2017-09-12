@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jewel Academy</title>
+    <meta charset="utf-8"/>
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-ui">
+
+    <meta name="application-name" content="Jewel Academy"/>
+    <meta name="msapplication-TileColor" content="#5BCBFD"/>
+    <meta name="msapplication-square70x70logo" content="assets/images/icons/AppIcon70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="assets/images/icons/AppIcon150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="assets/images/icons/AppIcon310x150.png"/>
+
+    <link rel="apple-touch-icon-precomposed"                    href="assets/images/icons/AppIcon60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76"      href="assets/images/icons/AppIcon76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"    href="assets/images/icons/AppIcon60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"    href="assets/images/icons/AppIcon76x76.png" />
+    <link rel="icon" type="image/png"                           href="assets/images/icons/AppIcon76x76.png" />
+
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body oncontextmenu="return false">
+    <!-- Synchronous script go below!!!!! -->
+    <script type="application/javascript" language="JavaScript">
+        console.debug = function() {};
+        console.log   = function() {};
+        console.warn  = function() {};
+    </script>
+    <script src="https://cdn.flurry.com/js/flurry.js"></script>
+    <!-- Spil Target -->
+    <!-- end of Synchronous script!!!!! -->
+
+    <script type="text/javascript" src="https://web-sdk.vidcoin.com/player.min.js"></script>
+
+    <!-- Async scripts go below!!!!! -->
+    <script type="text/javascript">
+        var vidCoinPlayer = VidcoinPlayer({
+            appId: '745863571460662',
+            placementCodes: ['98patlabszcwcgw4wkgwo04ws88g04k']
+        });
+
+        if('yahoo_us' === decodeURI((RegExp('utm_referrer' + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]))
+        {
+            function getURLUsertoken() {
+                return decodeURI((RegExp('usertoken' + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1])
+            }
+
+            /* @exclude
+            // test token: valid until
+            b64token = "eyJ2ZXJzaW9uIjoiVjFfSE1BQ1NIQTI1NiIsInVzZXJJZCI6IllxaFNjQ0N3WlFWanRwY1JGM0RIeHpERDRXMGEtVjZaX2N4bFl3T1poc2FvMSIsImFwaVRva2VuIjoiQXl0UkFBQ09UUUFBQVpiUUhQdE5BQUN2cys4UEFBQUFBTUxyOUM0QmhRbjJBQytBek1URmc0YzdmbFh1TGNlSlBxVUtOMEVLNUhVQ3lpR2FJVWtua0xOdyIsImV4cGlyZXMiOjE0Mjk2OTc1ODAsImJlYWNvbiI6IjF8MTk4NTR8In0.ySFUOWUYLvjPvSgYUcTI-Ax71FwtQiahjhVSuGjouaM";
+            /* @endexclude */
+
+            window.YahooGamesSetup = {
+                userToken: getURLUsertoken(),
+                resizeCanvasInterval: 100
+            };
+
+                // load YahooGames.js
+            (function (src, t) {
+                var s = document.createElement('script');
+                s.id = 'yahooscript'; s.type = 'text/javascript';
+                s.async = true; s.src = src;
+                if (!document.getElementById(s.id)){
+                    document.getElementsByTagName(t)[0].appendChild(s)
+                }
+            } ('//games.yahoo.com/yahoogames.js', 'head'));
+        }
+    </script>
+    <script type="application/javascript" language="JavaScript">
+        var hypermxConfig = {distId: 80801202, siteId: 'jewel_academy_prod'};
+    </script>
+    <!-- boosterbar should be the first script to load as the api.js is synchronous but loads the asynchronous booster-api.js -->
+    <script type="application/javascript" language="JavaScript">
+        var Booster = window.Booster || {};
+        window.Booster.ready = function() {
+            window.Booster.__initialized = true;
+        };
+        window.Booster.onSplashFinishedEvent = function() {
+            window.Booster.__splashFinished = true;
+        };
+    </script>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="http://98e9.https.cdn.softlayer.net/8098E9/static.tokenads.com/atmosphere-min.js"></script>
+    <!--<script id="booster-api" type="text/javascript" src="lib/booster/api.js"></script>-->
+    <script id="booster-api" type="text/javascript" src="../../../shared/booster/api.js"></script>
+    <script type="application/javascript" language="JavaScript" src="version.js"></script>
+
+    <script src="js/game.min.js"></script>
+    <script type="application/javascript" language="JavaScript"></script>
+
+    <!-- end of Async scripts!!!!! -->
+
+    <canvas id="game_background"></canvas>
+</body>
+</html>

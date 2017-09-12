@@ -1,0 +1,23 @@
+{
+  "resources": [
+    "assets/audio/music.ogg",
+    "assets/audio/music.mp3"
+  ],
+  "spritemap": {
+    "song1": {
+      "start": 0,
+      "end": 30.19548752834467,
+      "loop": false
+    },
+    "song2": {
+      "start": 32,
+      "end": 62.1,
+      "loop": false
+    },
+    "song3": {
+      "start": 64,
+      "end": 107.38467120181406,
+      "loop": false
+    }
+  }
+}

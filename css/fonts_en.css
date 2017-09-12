@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Decker';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/Decker.eot');              /* IE 5-8 */
+    src: local('☺'),                             /* sneakily trick IE */
+    url('../assets/fonts/Decker.woff') format('woff'),    /* FF 3.6, Chrome 5, IE9 */
+    url('../assets/fonts/Decker.ttf') format('truetype'), /* Opera, Safari */
+    url('../assets/fonts/Decker.svg#font') format('svg'); /* iOS */
+}
+
+@font-face {
+    font-family: 'curse_casual';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/curse_casual.eot');              /* IE 5-8 */
+    src: local('☺'),                             /* sneakily trick IE */
+    url('../assets/fonts/curse_casual.woff') format('woff'),    /* FF 3.6, Chrome 5, IE9 */
+    url('../assets/fonts/curse_casual.ttf') format('truetype'), /* Opera, Safari */
+    url('../assets/fonts/curse_casual.svg#font') format('svg'); /* iOS */
+}
+
+@font-face {
+    font-family: 'blenda_script';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/blenda_script.eot');              /* IE 5-8 */
+    src: local('☺'),                             /* sneakily trick IE */
+    url('../assets/fonts/blenda_script.woff') format('woff'),    /* FF 3.6, Chrome 5, IE9 */
+    url('../assets/fonts/blenda_script.ttf') format('truetype'), /* Opera, Safari */
+    url('../assets/fonts/blenda_script.svg#font') format('svg'); /* iOS */
+}
+
+@font-face {
+    font-family: 'toonish';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/toonish.eot');              /* IE 5-8 */
+    src: local('☺'),                             /* sneakily trick IE */
+    url('../assets/fonts/toonish.woff') format('woff'),    /* FF 3.6, Chrome 5, IE9 */
+    url('../assets/fonts/toonish.ttf') format('truetype'), /* Opera, Safari */
+    url('../assets/fonts/toonish.svg#font') format('svg'); /* iOS */
+}

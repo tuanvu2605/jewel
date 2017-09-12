@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "bg.png",
+	"frame": {"x":3,"y":3,"w":475,"h":422},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":422},
+	"sourceSize": {"w":475,"h":422},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loader_no_alpha.jpg",
+	"format": "RGB888",
+	"size": {"w":481,"h":428},
+	"scale": "0.22",
+	"smartupdate": "$TexturePacker:SmartUpdate:6addb41c9086602603e2e0aed4d6acdc:909b403271d977e1b53f4a6d27b910ff:8d4ca8376cb8502fa8a9111991d0deed$"
+}
+}

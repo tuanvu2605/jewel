@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "particle_flare.png",
+	"frame": {"x":1,"y":1,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flare.png",
+	"format": "RGBA8888",
+	"size": {"w":15,"h":15},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:549137d3d5d380e532ab5d6129407771:4f73b018c0e87d2e3b53f5bb60f39e48:e2a9c15a8e350186612de348f7e215db$"
+}
+}

@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "particle_removable_layer.png",
+	"frame": {"x":37,"y":1,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":18},
+	"sourceSize": {"w":22,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_removable_layer1.png",
+	"frame": {"x":61,"y":1,"w":22,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":17},
+	"sourceSize": {"w":22,"h":17},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_removable_layer2.png",
+	"frame": {"x":19,"y":1,"w":16,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":21},
+	"sourceSize": {"w":16,"h":21},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_removable_layer3.png",
+	"frame": {"x":1,"y":1,"w":16,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":23},
+	"sourceSize": {"w":16,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wood.png",
+	"format": "RGBA8888",
+	"size": {"w":84,"h":25},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:f5b4aa198a2669a12eb59b5c6eaf7131:ae0fa4580b64e506096bc74981944130:f25efcec0d996575d4a89b4a2525a662$"
+}
+}

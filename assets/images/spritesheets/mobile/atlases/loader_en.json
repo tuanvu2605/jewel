@@ -1,0 +1,129 @@
+{"frames": [
+
+{
+	"filename": "jewel_green.png",
+	"frame": {"x":951,"y":348,"w":192,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":214},
+	"sourceSize": {"w":192,"h":214},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "jewel_orange.png",
+	"frame": {"x":670,"y":604,"w":212,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":205},
+	"sourceSize": {"w":218,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "jewel_purple.png",
+	"frame": {"x":670,"y":348,"w":279,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":254},
+	"sourceSize": {"w":279,"h":254},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "load_layer_1.png",
+	"frame": {"x":884,"y":805,"w":186,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":65,"w":186,"h":191},
+	"sourceSize": {"w":384,"h":307},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "load_layer_2.png",
+	"frame": {"x":670,"y":811,"w":186,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":120,"w":186,"h":136},
+	"sourceSize": {"w":384,"h":307},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "load_layer_3.png",
+	"frame": {"x":1,"y":947,"w":156,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":146,"w":156,"h":44},
+	"sourceSize": {"w":384,"h":307},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo.png",
+	"frame": {"x":668,"y":1,"w":550,"h":345},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":345},
+	"sourceSize": {"w":550,"h":345},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo2.png",
+	"frame": {"x":314,"y":871,"w":103,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":100},
+	"sourceSize": {"w":103,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "play_btn_loader.png",
+	"frame": {"x":419,"y":871,"w":89,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":93},
+	"sourceSize": {"w":89,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shine.png",
+	"frame": {"x":1,"y":1,"w":665,"h":520},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":665,"h":520},
+	"sourceSize": {"w":685,"h":685},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sparticles1.png",
+	"frame": {"x":314,"y":523,"w":354,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":354,"h":346},
+	"sourceSize": {"w":355,"h":457},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sparticles2.png",
+	"frame": {"x":1,"y":523,"w":311,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":32,"w":311,"h":422},
+	"sourceSize": {"w":355,"h":457},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "swirl.png",
+	"frame": {"x":884,"y":604,"w":186,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":199},
+	"sourceSize": {"w":186,"h":199},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loader_en.png",
+	"format": "RGBA8888",
+	"size": {"w":1219,"h":997},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:7d1110bf29712ab8ee1b5f1ed1d1d138:1a142d9fdf2d07ac518c19f6515364fe:4d422b2eeade5feaad0c6f6c133681ed$"
+}
+}

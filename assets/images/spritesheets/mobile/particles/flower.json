@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "particle_flower1.png",
+	"frame": {"x":1,"y":1,"w":14,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":14,"h":14},
+	"sourceSize": {"w":23,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_flower2.png",
+	"frame": {"x":1,"y":31,"w":12,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":3,"w":12,"h":17},
+	"sourceSize": {"w":23,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_flower3.png",
+	"frame": {"x":1,"y":17,"w":13,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":13,"h":12},
+	"sourceSize": {"w":23,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flower.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":49},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c4837afb576cec1462d7b13989b8e52:84828e995c1172fafcaca38d8abca3fe:e5195cc89bf882fc7be5fc838224528a$"
+}
+}

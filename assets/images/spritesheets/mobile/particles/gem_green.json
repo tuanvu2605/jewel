@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "particle_gem_green.png",
+	"frame": {"x":1,"y":1,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":9,"h":9},
+	"sourceSize": {"w":13,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_gem_green_1.png",
+	"frame": {"x":12,"y":1,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":9,"h":9},
+	"sourceSize": {"w":13,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "particle_gem_green_2.png",
+	"frame": {"x":23,"y":1,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":9,"h":9},
+	"sourceSize": {"w":13,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gem_green.png",
+	"format": "RGBA8888",
+	"size": {"w":33,"h":11},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:2313e5feb41ce8348ce9bd821887b625:8ea4fec77932979ce656fb2f220f0404:a3e9d42459123579e6697a200cac6221$"
+}
+}

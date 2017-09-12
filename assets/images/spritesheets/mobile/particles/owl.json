@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "owlParticle1.png",
+	"frame": {"x":75,"y":1,"w":32,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":32,"h":38},
+	"sourceSize": {"w":33,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlParticle2.png",
+	"frame": {"x":1,"y":1,"w":36,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":38},
+	"sourceSize": {"w":36,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlParticle3.png",
+	"frame": {"x":39,"y":1,"w":34,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":38},
+	"sourceSize": {"w":34,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "owl.png",
+	"format": "RGBA8888",
+	"size": {"w":108,"h":40},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:6ecceb1c93afd37e717348af88aa6ee5:ae77f132a53fb403c282be92f15fe0c0:4fe4e528f8a5e03e42bb2df95765d54d$"
+}
+}

@@ -1,0 +1,165 @@
+{"frames": [
+
+{
+	"filename": "Owl1x2.png",
+	"frame": {"x":168,"y":1,"w":53,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":114},
+	"sourceSize": {"w":53,"h":114},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Owl2x4.png",
+	"frame": {"x":1,"y":362,"w":107,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":233},
+	"sourceSize": {"w":107,"h":233},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Owl3x6.png",
+	"frame": {"x":1,"y":1,"w":165,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":359},
+	"sourceSize": {"w":165,"h":359},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cloud_1.png",
+	"frame": {"x":1,"y":697,"w":214,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":214,"h":92},
+	"sourceSize": {"w":216,"h":92},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cloud_2.png",
+	"frame": {"x":1,"y":791,"w":212,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":212,"h":91},
+	"sourceSize": {"w":216,"h":91},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cloud_3.png",
+	"frame": {"x":1,"y":597,"w":215,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":215,"h":98},
+	"sourceSize": {"w":216,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "grid_square_1.png",
+	"frame": {"x":110,"y":362,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "grid_square_2.png",
+	"frame": {"x":110,"y":426,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyMushroom.png",
+	"frame": {"x":174,"y":357,"w":51,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":51,"h":48},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyOwl.png",
+	"frame": {"x":168,"y":167,"w":60,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":47},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyScore.png",
+	"frame": {"x":168,"y":216,"w":60,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":46},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyShape.png",
+	"frame": {"x":168,"y":264,"w":56,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":56,"h":47},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyThorns.png",
+	"frame": {"x":168,"y":117,"w":60,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":48},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyTime.png",
+	"frame": {"x":174,"y":459,"w":49,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":49,"h":45},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "iconGreyWood.png",
+	"frame": {"x":168,"y":313,"w":58,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":42},
+	"sourceSize": {"w":60,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "smokePuff.png",
+	"frame": {"x":174,"y":407,"w":49,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":50},
+	"sourceSize": {"w":50,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tutorial_tile.png",
+	"frame": {"x":110,"y":490,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images_grey.png",
+	"format": "RGBA8888",
+	"size": {"w":229,"h":883},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:84bc61104790260c3b1b6207d1afad9e:41b4196119243227386d3e7807c97808:50fa4e7666da6d01d922ebcaa29840b5$"
+}
+}

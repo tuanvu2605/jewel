@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "12_tree_leaf_01_christmas.png",
+	"frame": {"x":1,"y":1,"w":86,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":56,"w":86,"h":46},
+	"sourceSize": {"w":102,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "12_tree_leaf_02_christmas.png",
+	"frame": {"x":1,"y":49,"w":58,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":58,"h":72},
+	"sourceSize": {"w":102,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "12_tree_leaf_03_christmas.png",
+	"frame": {"x":61,"y":49,"w":53,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":68},
+	"sourceSize": {"w":102,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "maptree.png",
+	"format": "RGBA8888",
+	"size": {"w":115,"h":122},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:a088529228f74d221d04132b4aebf287:dc84314777240cd53cbf4c1ea612e793:3c809c9ac510d18ec7f3edd28b2db906$"
+}
+}

@@ -1,0 +1,2 @@
+http://games.coolgames.com/jewelacademy/en/4.5/assets/fonts/smallNumbers.fnt
+http://games.coolgames.com/jewelacademy/en/4.5/assets/fonts/bigNumbers.fnt 

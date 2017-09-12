@@ -1,0 +1,3 @@
+http://games.coolgames.com/jewelacademy/en/4.5/assets/images/spritesheets/mobile/particles/maptree.json 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/images/spritesheets/mobile/particles/owl.json 
+http://games.coolgames.com/jewelacademy/en/4.5/assets/images/spritesheets/mobile/particles/wood.json 

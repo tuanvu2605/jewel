@@ -1,0 +1,237 @@
+{"frames": [
+
+{
+	"filename": "owl1.png",
+	"frame": {"x":499,"y":367,"w":62,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":58},
+	"sourceSize": {"w":62,"h":58},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl10.png",
+	"frame": {"x":1162,"y":225,"w":61,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":91},
+	"sourceSize": {"w":61,"h":91},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl11.png",
+	"frame": {"x":1225,"y":225,"w":28,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":89},
+	"sourceSize": {"w":28,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl12.png",
+	"frame": {"x":610,"y":367,"w":44,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":49},
+	"sourceSize": {"w":44,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl13.png",
+	"frame": {"x":374,"y":368,"w":53,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":65},
+	"sourceSize": {"w":53,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl14.png",
+	"frame": {"x":429,"y":368,"w":68,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":58},
+	"sourceSize": {"w":68,"h":58},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl15.png",
+	"frame": {"x":1014,"y":326,"w":43,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":99},
+	"sourceSize": {"w":43,"h":99},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl16.png",
+	"frame": {"x":744,"y":363,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":72,"h":71},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl17.png",
+	"frame": {"x":1255,"y":225,"w":88,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":83},
+	"sourceSize": {"w":88,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl18.png",
+	"frame": {"x":1257,"y":310,"w":55,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":85},
+	"sourceSize": {"w":55,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl2.png",
+	"frame": {"x":1183,"y":318,"w":72,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":90},
+	"sourceSize": {"w":72,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl3.png",
+	"frame": {"x":1106,"y":318,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":91},
+	"sourceSize": {"w":75,"h":91},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl4.png",
+	"frame": {"x":824,"y":360,"w":56,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":76},
+	"sourceSize": {"w":56,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl5.png",
+	"frame": {"x":1081,"y":225,"w":79,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":91},
+	"sourceSize": {"w":79,"h":91},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl6.png",
+	"frame": {"x":1014,"y":225,"w":65,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":99},
+	"sourceSize": {"w":65,"h":99},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl7.png",
+	"frame": {"x":1059,"y":326,"w":45,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":96},
+	"sourceSize": {"w":45,"h":96},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl8.png",
+	"frame": {"x":563,"y":367,"w":45,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":51},
+	"sourceSize": {"w":45,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owl9.png",
+	"frame": {"x":656,"y":363,"w":86,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":71},
+	"sourceSize": {"w":86,"h":71},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlGlow.png",
+	"frame": {"x":1,"y":1,"w":303,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":8,"w":303,"h":436},
+	"sourceSize": {"w":339,"h":473},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlGold.png",
+	"frame": {"x":480,"y":1,"w":172,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":364},
+	"sourceSize": {"w":172,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlGray.png",
+	"frame": {"x":654,"y":1,"w":168,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":360},
+	"sourceSize": {"w":168,"h":360},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlShine.png",
+	"frame": {"x":1014,"y":1,"w":330,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":330,"h":222},
+	"sourceSize": {"w":347,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "owlSparkle.png",
+	"frame": {"x":306,"y":368,"w":66,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":65},
+	"sourceSize": {"w":66,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "piecesOwl.png",
+	"frame": {"x":306,"y":1,"w":172,"h":365},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":365},
+	"sourceSize": {"w":172,"h":365},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shakeOwl.png",
+	"frame": {"x":824,"y":1,"w":188,"h":357},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":357},
+	"sourceSize": {"w":188,"h":357},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "owl_animation.png",
+	"format": "RGBA8888",
+	"size": {"w":1345,"h":438},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:82f53de1621dc2892bd3d1d55b4a0e29:9d0b31bcd5f15893b0562b8c1a9782df:f03ab3b07c27600f10eb8f83e908cad1$"
+}
+}

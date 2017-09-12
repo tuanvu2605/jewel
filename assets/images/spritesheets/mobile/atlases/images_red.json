@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "14_lights.png",
+	"frame": {"x":1,"y":1,"w":384,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":251},
+	"sourceSize": {"w":384,"h":251},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images_red.png",
+	"format": "RGBA8888",
+	"size": {"w":386,"h":253},
+	"scale": "0.54",
+	"smartupdate": "$TexturePacker:SmartUpdate:39f494e4455a4a02f085eb990732ead7:69412df332ccc3e9b44e522950089978:7fb2c6c22c6a86489da4724864b90b72$"
+}
+}

@@ -1,0 +1,183 @@
+{"frames": [
+
+{
+	"filename": "gate_016_closed.jpg",
+	"frame": {"x":669,"y":3,"w":188,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":264},
+	"sourceSize": {"w":188,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gate_017_closed.jpg",
+	"frame": {"x":863,"y":3,"w":184,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":177},
+	"sourceSize": {"w":184,"h":177},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gate_017_open.jpg",
+	"frame": {"x":1053,"y":3,"w":184,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":177},
+	"sourceSize": {"w":184,"h":177},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gate_018_closed.jpg",
+	"frame": {"x":228,"y":3,"w":219,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":212},
+	"sourceSize": {"w":219,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_002_light.jpg",
+	"frame": {"x":438,"y":291,"w":92,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":61},
+	"sourceSize": {"w":92,"h":61},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_005_dragon_light.jpg",
+	"frame": {"x":3,"y":3,"w":219,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":370},
+	"sourceSize": {"w":219,"h":370},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_005_lights_house.jpg",
+	"frame": {"x":453,"y":3,"w":210,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":282},
+	"sourceSize": {"w":210,"h":282},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_007_candle_002.jpg",
+	"frame": {"x":1214,"y":186,"w":137,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":143},
+	"sourceSize": {"w":137,"h":143},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_007_candle_01.jpg",
+	"frame": {"x":863,"y":186,"w":184,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":137},
+	"sourceSize": {"w":184,"h":137},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_007_eyes.jpg",
+	"frame": {"x":1395,"y":3,"w":29,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":23},
+	"sourceSize": {"w":29,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_007_lights_house.jpg",
+	"frame": {"x":1243,"y":3,"w":146,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":177},
+	"sourceSize": {"w":146,"h":177},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_008_fire.jpg",
+	"frame": {"x":1357,"y":186,"w":114,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":107},
+	"sourceSize": {"w":114,"h":107},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_009_lighthouse.jpg",
+	"frame": {"x":669,"y":273,"w":96,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":97},
+	"sourceSize": {"w":96,"h":97},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_009_ship_lights.jpg",
+	"frame": {"x":228,"y":221,"w":204,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":140},
+	"sourceSize": {"w":204,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "map_016_house.jpg",
+	"frame": {"x":1053,"y":186,"w":155,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":175},
+	"sourceSize": {"w":155,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "progress_bar_center_fill.jpg",
+	"frame": {"x":438,"y":221,"w":1,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":7},
+	"sourceSize": {"w":1,"h":7},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "progress_bar_center_fill_desktop.jpg",
+	"frame": {"x":438,"y":247,"w":7,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":1},
+	"sourceSize": {"w":7,"h":1},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "progress_bar_center_fill_desktop_full.jpg",
+	"frame": {"x":438,"y":254,"w":7,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":1},
+	"sourceSize": {"w":7,"h":1},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "progress_bar_center_fill_full.jpg",
+	"frame": {"x":438,"y":234,"w":1,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":7},
+	"sourceSize": {"w":1,"h":7},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "no_alpha.jpg",
+	"format": "RGB888",
+	"size": {"w":1474,"h":376},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:e73cf8f894e594367d1ea8ccff67fd65:abd99520e5e7d1cb9d038faa1ce411ba:58dc52009bcca0a9b6484e5933ea1d4c$"
+}
+}
